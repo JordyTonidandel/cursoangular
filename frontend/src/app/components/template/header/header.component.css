@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color:lightgrey ;
+    height: 75px;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo{
+    width: 150px;
+    height: 78.813;
+}
