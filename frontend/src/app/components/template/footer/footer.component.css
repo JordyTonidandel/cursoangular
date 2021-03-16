@@ -1,12 +1,24 @@
 .footer {
     position: fixed;
     bottom: 0;
-
     display: flex;
+    background-color:lightgrey ;
+    height: 75px;
     justify-content: flex-end;
 }
 
-.footer > span {
-    font-size: 1.1rem;
-    font-weight: 300;
+.footer .logo img{
+    width: 50px;
+    height: 25;
+}
+
+.footer span i {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: small;
+}
+
+.footer .logoIBGPfooter img {
+    padding-top: 10px;
+    width: 85px;
 }

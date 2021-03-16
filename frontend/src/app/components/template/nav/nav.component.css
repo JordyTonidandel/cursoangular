@@ -1,17 +1,12 @@
 .sidenav {
-    background-color: #3F51B5;
+    background-color: rgb(224, 224, 224);
     width: 200px;
 }
 
 .sidenav a {
-    color: #FFF;
+    color: black;
 }
 
 .sidenav i {
-    padding-right: 10px;
-}
-
-.content {
-    padding: 16px;
-    background-color: #FFF;
-}
+    padding-left: 10px;
+} 
